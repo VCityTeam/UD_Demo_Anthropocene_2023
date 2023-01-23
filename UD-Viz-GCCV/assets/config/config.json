@@ -32,6 +32,11 @@
         "name": "groupe2",
         "folder": "../assets/slideshow/groupe2",
         "diapositives": ["Emprise_Projet.png", "test.png"]
+      },
+      {
+        "name": "groupe6",
+        "folder": "../assets/slideshow/groupe6",
+        "diapositives": ["Emprise_Projet.png", "groupe6_test.png"]
       }
     ],
     "textureRotation": -90  

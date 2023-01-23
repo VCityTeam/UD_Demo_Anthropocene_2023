@@ -27,7 +27,7 @@
         "name": "groupe1",
         "folder": "../assets/slideshow/groupe1",
         "diapositives": ["Emprise_Projet.png", "LeQuartierEnLumieres.png"]
-      }
+      },
       {
         "name": "groupe2",
         "folder": "../assets/slideshow/groupe2",

@@ -13,13 +13,10 @@
 - Install npm
 - cd ```UD-Viz-Anthropocene-2023```
 - ``` npm i ```
-- ```npm run build ```
-- Open a browser at this adress ```http://localhost:8000/debug.html```
 
 ### Demo running
 - cd ```UD_Demo_Anthropocene_2023/UD-Viz-GCCV```
 - ``` npm i ```
-- ```npm run build ```
 - ```npm run debug```
 - Open a browser at this adress ```http://localhost:8000/debug.html```
 

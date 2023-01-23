@@ -34,6 +34,11 @@
         "diapositives": ["Emprise_Projet.png", "test.png"]
       },
       {
+        "name": "groupe5",
+        "folder": "../assets/slideshow/groupe5",
+        "diapositives": ["Emprise_Projet.png", "test.png"]
+      },
+      {
         "name": "groupe6",
         "folder": "../assets/slideshow/groupe6",
         "diapositives": ["Emprise_Projet.png", "groupe6_test.png"]

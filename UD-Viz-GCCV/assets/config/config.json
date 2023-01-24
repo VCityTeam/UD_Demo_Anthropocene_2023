@@ -26,7 +26,7 @@
 	   {
         "name": "groupe1",
         "folder": "../assets/slideshow/groupe1",
-        "diapositives": ["Emprise_Projet.png", "LeQuartierEnLumieres.png"]
+        "diapositives": ["LeQuartierEnLumieresJour.png", "LeQuartierEnLumieresNuit.png"]
       },
       {
         "name": "groupe2",

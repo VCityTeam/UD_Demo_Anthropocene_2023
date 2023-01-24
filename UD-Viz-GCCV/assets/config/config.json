@@ -14,12 +14,7 @@
   "slideShow": {
     "slides": [
       {
-        "name": "diapo_demo_test",
-        "folder": "../assets/slideshow",
-        "diapositives": ["Emprise_Projet.png","1.png", "2.png", "3.png", "4.png", "5.png", "6.png","video.mov"]
-      },
-      {
-        "name": "groupe0",
+        "name": "demo2022",
         "folder": "../assets/slideshow",
         "diapositives": ["1.png", "2.png", "3.png", "4.png", "5.png", "6.png"]
       },

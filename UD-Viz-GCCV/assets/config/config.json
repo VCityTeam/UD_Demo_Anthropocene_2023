@@ -31,7 +31,7 @@
       {
         "name": "groupe3",
         "folder": "../assets/slideshow/groupe3",
-        "diapositives": ["Emprise_Projet.png", "Emprise_Grp3.png"]
+        "diapositives": ["Emprise_Projet.png", "Emprise_Grp3.png", "image1.png", "image2.png", "image3.png"]
       },
       {
         "name": "groupe4",

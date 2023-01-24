@@ -46,7 +46,7 @@
       {
         "name": "groupe6",
         "folder": "../assets/slideshow/groupe6",
-        "diapositives": ["Emprise_Projet.png", "groupe6_test.png"]
+        "diapositives": ["groupe6_test.png", "test_gp6_jour2.png"]
       }
     ],
     "textureRotation": -90  

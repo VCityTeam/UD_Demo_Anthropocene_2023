@@ -14,6 +14,7 @@ import { Maptastic } from "./vendor/maptastic.min.js";
 
 const myUtils = new Utils();
 const streaming = Boolean(false);
+const displayAgent = Boolean(false);
 let sources;
 let dynamicLayer;
 
@@ -142,12 +143,15 @@ FileUtil.loadJSON("../assets/config/config.json").then((config) => {
 
   // simulation
   if (!streaming) {
-    sources = getSourceListfromGeojsonCollection(config["dynamic_layer"]);
-    console.log("Nb initial sources " + sources.length);
-    myUtils.foo(frame3DPlanar.itownsView);
-    setTimeout(() => {
+    if(displayAgent){
+      sources = getSourceListfromGeojsonCollection(config["dynamic_layer"]);
+      console.log("Nb initial sources " + sources.length);
+      myUtils.foo(frame3DPlanar.itownsView);
+      setTimeout(() => {
       runTimelapse(frame3DPlanar.itownsView, dynamicLayer, sources, 1000);
     }, 200);
+    }
+    
   } else {
     const wSocket = new WebSocket("ws://localhost:6868/");
 

@@ -41,7 +41,7 @@
       {
         "name": "groupe5",
         "folder": "../assets/slideshow/groupe5",
-        "diapositives": ["slide_1.png", "slide_2.png"]
+        "diapositives": ["slide_1.png", "slide_2.png", "slide_3.png"]
       },
       {
         "name": "groupe6",

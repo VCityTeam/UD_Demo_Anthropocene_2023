@@ -31,7 +31,7 @@
       {
         "name": "groupe3",
         "folder": "../assets/slideshow/groupe3",
-        "diapositives": ["Emprise_Projet.png", "Emprise_Grp3.png", "calibrate-image.png", "image1.png", "image2.png", "image3.png", "video_test.mkv", "mediation_video.mp4"]
+        "diapositives": ["fond_2023.png", "Emprise_Projet.png", "Emprise_Grp3.png", "calibrate-image.png", "image1.png", "image2.png", "image3.png", "video_test.mkv", "mediation_video.mp4"]
       },
       {
         "name": "groupe4",

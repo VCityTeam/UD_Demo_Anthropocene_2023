@@ -36,7 +36,7 @@
       {
         "name": "groupe4",
         "folder": "../assets/slideshow/groupe4",
-        "diapositives": ["Emprise_Projet_Test2.png", "Emprise_Projet_Choix.png", "Emprise_Projet_Option1.png", "Emprise_Projet_Option2.png"]
+        "diapositives": ["Emprise_Projet_Vierge.png", "Emprise_Projet_Jour1.png", "Emprise_Projet_Nuit1_Light.png", "Emprise_Projet_Nuit1.png"]
       },
       {
         "name": "groupe5",

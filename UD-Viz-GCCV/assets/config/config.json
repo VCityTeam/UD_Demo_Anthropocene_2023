@@ -31,7 +31,7 @@
       {
         "name": "groupe3",
         "folder": "../assets/slideshow/groupe3",
-        "diapositives": ["2023_image.png", "2023_video.mp4", "2030_image.png", "2030_video.mp4"]
+        "diapositives": ["2023_image.png", "2023_video.mp4", "2030_image.png", "2030_video.mp4", "fond_2030.png"]
       },
       {
         "name": "groupe4",
